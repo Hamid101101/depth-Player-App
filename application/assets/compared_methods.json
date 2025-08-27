@@ -1,0 +1,16 @@
+{
+    "methods": [
+        {
+            "name": "FoundationStereo",
+            "default_path": "../kaka"
+        },
+        {
+            "name": "RAFTStereo",
+            "default_path": "../raftstereo/disparity_npy"
+        },
+        {
+            "name": "RAFT",
+            "default_path": "../RAFT"
+        }
+    ]
+}

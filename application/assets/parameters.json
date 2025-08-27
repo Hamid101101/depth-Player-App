@@ -1,0 +1,20 @@
+{
+    "FoundationStereo": {
+        "min": 0.0,
+        "max": 150.0
+    },
+    "RAFTStereo": {
+        "min": 3.87,
+        "max": 238.73
+    },
+    "RAFT": {
+        "min": 3.87,
+        "max": 238.73
+    },
+    "is_depth_mode": false,
+    "cx0": 0.0,
+    "cx1": 0.0,
+    "focal_lenght": 1000.0,
+    "baseline": 2.0,
+    "color_map": "plasma_r"
+}
